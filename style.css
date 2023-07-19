@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(189, 201, 245);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1, h2 {
+    font-size: medium;
+}
+p, ul, ol {
+    font-size: small;
+}
+.generales{
+    column-count: 2;
+    width: 1000px;
+    height: 700px;
+}
